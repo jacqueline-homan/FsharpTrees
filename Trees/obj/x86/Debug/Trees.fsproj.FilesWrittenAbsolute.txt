@@ -1,0 +1,5 @@
+/home/jacque/Projects/F-sharp/Trees/Trees/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/home/jacque/Projects/F-sharp/Trees/Trees/bin/Debug/Trees.exe.mdb
+/home/jacque/Projects/F-sharp/Trees/Trees/bin/Debug/Trees.exe
+/home/jacque/Projects/F-sharp/Trees/Trees/obj/x86/Debug/Trees.exe
+/home/jacque/Projects/F-sharp/Trees/Trees/obj/x86/Debug/Trees.exe.mdb

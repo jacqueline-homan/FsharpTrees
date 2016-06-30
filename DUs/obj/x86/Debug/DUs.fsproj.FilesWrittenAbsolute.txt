@@ -1,0 +1,5 @@
+/home/jacque/Projects/F-sharp/Trees/DUs/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/home/jacque/Projects/F-sharp/Trees/DUs/bin/Debug/DUs.exe.mdb
+/home/jacque/Projects/F-sharp/Trees/DUs/bin/Debug/DUs.exe
+/home/jacque/Projects/F-sharp/Trees/DUs/obj/x86/Debug/DUs.exe
+/home/jacque/Projects/F-sharp/Trees/DUs/obj/x86/Debug/DUs.exe.mdb
